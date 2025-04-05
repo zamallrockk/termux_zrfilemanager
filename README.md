@@ -1,9 +1,9 @@
 # zrfilemanager
 
+[![Donate](https://img.shields.io/badge/Buy_Me_a_Coffee-ko--fi-FF5E5B?logo=ko-fi&logoColor=white&style=flat-square)](https://ko-fi.com/zamallrock)
 [![Python Version](https://img.shields.io/badge/python-3.9%2B-blue?logo=python)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![CI/CD](https://github.com/zamallrockk/zrfilemanager/actions/workflows/python-app.yml/badge.svg)](https://github.com/zamallrockk/zrfilemanager/actions)
-[![Donate](https://img.shields.io/badge/Buy_Me_a_Coffee-ko--fi-FF5E5B?logo=ko-fi&logoColor=white&style=flat-square)](https://ko-fi.com/zamallrock)
 
 A terminal-based file manager built with Python using curses. Navigate your filesystem with a simple text user interface.
 
